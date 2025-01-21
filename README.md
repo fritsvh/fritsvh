@@ -3,7 +3,7 @@
 My name is Frits, and I'm a Dutch [JADS](https://www.jads.nl/) trained data scientist interested in all things AI & Data Science. 
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning on the applications of LLMs in financial sector
+- 🌱 I’m currently learning on the applications of LLMs in the financial sector
 - 📫 Reach out to me on: f.l.h.vanhulten@gmail.com or lets have a quick [chat](https://calendly.com/f-l-h-vanhulten)
 
 
